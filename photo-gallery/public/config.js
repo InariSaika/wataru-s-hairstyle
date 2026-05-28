@@ -3,6 +3,6 @@
 // 注意：这里只放 anon key（只读权限），不要放 service key
 
 window.GALLERY_CONFIG = {
-  supabaseUrl: 'https://YOUR_PROJECT_ID.supabase.co',
-  supabaseKey: 'YOUR_ANON_PUBLIC_KEY',
+  supabaseUrl: 'https://lnuubpxeotvvqrcezvpe.supabase.co/rest/v1/',
+  supabaseKey: 'sb_publishable_z2P2EufX2Lj0Sx62msHQVw_zCjZtba0',
 };
