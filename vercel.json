@@ -1,14 +1,7 @@
 {
-  "rewrites": [
-    { "source": "/admin/:path*", "destination": "/admin/:path*" },
-    { "source": "/(.*)", "destination": "/public/$1" }
-  ],
-  "headers": [
-    {
-      "source": "/admin/(.*)",
-      "headers": [
-        { "key": "X-Robots-Tag", "value": "noindex" }
-      ]
-    }
+  "routes": [
+    { "src": "/admin", "dest": "/admin/index.html" },
+    { "src": "/admin/(.*)", "dest": "/admin/$1" },
+    { "src": "/(.*)", "dest": "/public/$1" }
   ]
 }
