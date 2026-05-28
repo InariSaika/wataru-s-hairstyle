@@ -4,5 +4,5 @@
 
 window.GALLERY_CONFIG = {
   supabaseUrl: 'https://lnuubpxeotvvqrcezvpe.supabase.co/rest/v1/',
-  supabaseKey: 'sb_publishable_z2P2EufX2Lj0Sx62msHQVw_zCjZtba0',
+  supabaseKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxudXVicHhlb3R2dnFyY2V6dnBlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk5MTk0MDQsImV4cCI6MjA5NTQ5NTQwNH0.Nqk6FE2twPD7jjMHaW2qgFchs31YO6a-QdXsmFdVR6c',
 };
